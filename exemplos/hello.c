@@ -1,12 +1,17 @@
 #include <stdio.h>
-#include <string.h>
 
-    int main()
+int main()
+{
+    int w = 0;
+    scanf("%d", &w);
+
+    if (w % 2 == 0 && w > 2)
     {
-        int *itemp;
-        *itemp = 35;
-        printf("%d\n", *itemp);
-        *itemp = 2 * (*itemp);
-        printf("%d\n", *itemp);
-        return 0;
+        printf("%s", "YES");
     }
+    else
+    {
+        printf("%s", "NO");
+    }
+    return 0;
+}

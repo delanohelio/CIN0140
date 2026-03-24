@@ -31,9 +31,9 @@ Atividades avaliativas com prazo de entrega. Submeter conforme instruções do p
 
 | # | Descrição | Link | Prazo | Status |
 |---|-----------|-------|-------|--------|
-| 1 | Lista 01 - C | [ListaPratica01.md](ListasPraticas/ListaPratica01.md) | 30/03/2026* | 🟩 No prazo |
+| 1 | Lista 01 - C | [ListaPratica01.md](ListasPraticas/ListaPratica01.md) | 01/04/2026* | 🟩 No prazo |
 
- *O prazo para quem precisa de mais tempo por lei (50% a mais) é 02/04/2026.
+ *O prazo para quem precisa de mais tempo por lei (50% a mais) é 06/04/2026.
 
 ---
 
