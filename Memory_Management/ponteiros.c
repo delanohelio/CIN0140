@@ -12,5 +12,8 @@ int main() {
     *p = 20; // Modificando n através de p
     printf("Novo valor de n: %d\n", n);
 
+    scanf("%d", p); // Lendo um valor diretamente para o endereço apontado por p
+    printf("Valor de n apos leitura: %d\n", n);
+
     return 0;
 }

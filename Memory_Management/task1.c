@@ -3,7 +3,7 @@
 int main() {
     int notas[100];
     int i = 0;
-    int nota;
+    int nota = 0;
     float soma = 0.0;
     int contador_nota_igual = 1;
     int maior_sequencia_igual = 1;
