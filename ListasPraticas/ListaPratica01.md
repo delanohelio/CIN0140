@@ -2,7 +2,7 @@
 
 Atividade avaliativa. Resolva os problemas abaixo na plataforma **Codeforces** e submeta o código-fonte e o link da sua submissão conforme as instruções do README.
 
-**Prazo:** 01/04/2026 (ou 06/04/2026 para quem tem direito a prazo estendido por lei).
+**Prazo:** 03/04/2026 (ou 07/04/2026 para quem tem direito a prazo estendido por lei).
 
 Link para submissão: [Formulário de Submissão - Lista Prática 01](https://forms.gle/tVKbCzajSZANzNZE9)
 
