@@ -31,9 +31,9 @@ Atividades avaliativas com prazo de entrega. Submeter conforme instruções do p
 
 | # | Descrição | Link | Prazo | Status |
 |---|-----------|-------|-------|--------|
-| 1 | Lista 01 - C | [ListaPratica01.md](ListasPraticas/ListaPratica01.md) | 01/04/2026* | 🟩 No prazo |
+| 1 | Lista 01 - C | [ListaPratica01.md](ListasPraticas/ListaPratica01.md) | 03/04/2026* | 🟩 No prazo |
 
- *O prazo para quem precisa de mais tempo por lei (50% a mais) é 06/04/2026.
+ *O prazo para quem precisa de mais tempo por lei (50% a mais) é 07/04/2026.
 
 ---
 
@@ -44,3 +44,9 @@ Atividades avaliativas com prazo de entrega. Submeter conforme instruções do p
 3. O código-fonte deve ser nomeado seguindo o padrão: `código_problema.extensão` (ex: `termometro_do_show.cpp`);
 4. O link da submissão deve ser fornecido para que o professor possa verificar que a solução foi submetida corretamente.
 5. Você pode editar o formulário de submissão quantas vezes quiser, até a data do prazo.
+
+## Simulado
+
+| # | Descrição | Link |
+|---|-----------|-------|
+| 1 | Simulado 01 - C | [Simulado-1.md](Simulado/Simulado-1.md) |
